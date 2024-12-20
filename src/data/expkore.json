@@ -1,0 +1,74 @@
+{
+    "people": [
+        {
+            "title": "Nweke Fabian",
+            "description": "Founder, Suits 'N Stitches "
+        },
+        {
+            "title": "Somtochukwu Onu",
+            "description": "Computer Proggrammer/Web Developer "
+        },
+        {
+            "title": "Jumbo David",
+            "description": "Founder, Zosi's Laboatory "
+        }
+    ],
+    "conversations": [
+        {
+            "title": "Football",
+            "description": "Who will win the 2023 ballon d'or?"
+        },
+        {
+            "title": "Football",
+            "description": "Who will win the 2023 ballon d'or?"
+        },
+        {
+            "title": "Football",
+            "description": "Who will win the 2023 ballon d'or?"
+        },
+        {
+            "title": "Football",
+            "description": "Who will win the 2023 ballon d'or?"
+        },
+        {
+            "title": "Football",
+            "description": "Who will win the 2023 ballon d'or?"
+        },
+        {
+            "title": "Football",
+            "description": "Who will win the 2023 ballon d'or?"
+        },
+        {
+            "title": "Football",
+            "description": "Who will win the 2023 ballon d'or?"
+        },
+        {
+            "title": "Football",
+            "description": "Who will win the 2023 ballon d'or?"
+        },
+        {
+            "title": "Football",
+            "description": "Who will win the 2023 ballon d'or?"
+        },
+        {
+            "title": "Football",
+            "description": "Who will win the 2023 ballon d'or?"
+        },
+        {
+            "title": "Football",
+            "description": "Who will win the 2023 ballon d'or?"
+        },
+        {
+            "title": "Football",
+            "description": "Who will win the 2023 ballon d'or?"
+        },
+        {
+            "title": "Football",
+            "description": "Who will win the 2023 ballon d'or?"
+        },
+        {
+            "title": "Football",
+            "description": "Who will win the 2023 ballon d'or?"
+        }
+    ]
+}

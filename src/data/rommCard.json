@@ -1,0 +1,71 @@
+[
+    {
+        "id": 1,
+        "title": "GOOD TIME",
+        "sub_title": "Calvin Harris x Chino Jeremiah on Good Time Show",
+        "members": [
+            {
+                "first_name": "Niran",
+                "last_name": "Gang"
+            },
+            {
+                "first_name": "Okechukwu",
+                "last_name": "Stephen"
+            },
+            {
+                "first_name": "Paul",
+                "last_name": "Rosenberg"
+            },
+            {
+                "first_name": "Amaka",
+                "last_name": "Emilia"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "TRAP SZN",
+        "sub_title": "All the best the trap game has to offer, from mainstream artists like Playboi carti, Future, and Young Thug to small srtists like Piano G",
+        "members": [
+            {
+                "first_name": "Niran",
+                "last_name": "Gang"
+            },
+            {
+                "first_name": "Okechukwu",
+                "last_name": "Stephen"
+            },
+            {
+                "first_name": "Paul",
+                "last_name": "Rosenberg"
+            },
+            {
+                "first_name": "Amaka",
+                "last_name": "Emilia"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Lets Talk Rap",
+        "sub_title": "On Today's Episode, Meara Michels and Sandy Otumba talk about all the Albums released in the first Half of the 2022, and their potential to be album of the year",
+        "members": [
+            {
+                "first_name": "Meara",
+                "last_name": "Michels"
+            },
+            {
+                "first_name": "Sandy",
+                "last_name": "Otumba"
+            },
+            {
+                "first_name": "Oswald",
+                "last_name": "Lee"
+            },
+            {
+                "first_name": "Chidi",
+                "last_name": "Amokachi"
+            }
+        ]
+    }
+]
